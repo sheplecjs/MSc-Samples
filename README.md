@@ -2,7 +2,7 @@
 
 ## Description
 
-These are a few of the more substantive projects completed as part of my MSc program. This is intended to be part of a professional portfolio of coding for data science, so program details and any assignments that weren't open ended in terms of topic and dataset are omitted.
+These are a few of the more substantive projects completed as part of my DS MSc program (2021-2023).
 
 ## Contents
 
