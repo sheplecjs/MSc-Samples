@@ -1,4 +1,4 @@
-FROM intel/intel-optimized-tensorflow
+FROM 3.8.16:latest
 
 # Setup env
 ENV LANG C.UTF-8
