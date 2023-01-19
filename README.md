@@ -20,7 +20,7 @@ These are a few of the more substantive projects completed as part of my MSc pro
 
 + **Parallel Proof-of-Work**
 
-> *Implementation of blockchain mining node. Includes transaction and block verification, as well as a parallelized mining function using a stratified random nonce search. Mining is completed as part of coursework requirements on multiple platforms using between 2 and 36 processing tasks. A 51% attack is forensically analyzed and a potential mitigation strategy using anomaly detection in nonce search strategy is proposed. Note: Because this assignment works to a tight spec, mining code is omitted here.*
+> *Implementation of blockchain mining node. Includes transaction and block verification, as well as a parallelized mining function using a stratified random nonce search. Mining is completed as part of coursework requirements on multiple platforms using between 2 and 36 processing tasks. A 51% attack is forensically analyzed and a potential mitigation strategy using anomaly detection in nonce search strategy is suggested. Note: Because this assignment works to a tight spec, only parallel mining code and blockchain analysis are included.*
 
 ## License
 
