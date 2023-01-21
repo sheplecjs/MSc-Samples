@@ -1,4 +1,4 @@
-FROM 3.8.16:latest
+FROM python:3.8-bullseye
 
 # Setup env
 ENV LANG C.UTF-8
@@ -19,6 +19,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends gcc && apt-get 
 COPY . .
 
 # Install additional deps
+RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
 # Create and switch to a new user
